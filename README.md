@@ -5,11 +5,11 @@ Note: You can enter any Pokemon's name to know more about it.
 
 Some pics of the final app: 
 ![image](https://user-images.githubusercontent.com/70360391/183052453-15ebe5d5-8aa3-4944-88a4-de76a963dfc7.png)
-<p></p>
+.
 ![image](https://user-images.githubusercontent.com/70360391/183052521-0886e7dd-65ce-4edd-95ab-98aa2838ce8f.png)
-<p></p>
+.
 ![image](https://user-images.githubusercontent.com/70360391/183052634-9b9a50e6-d54d-4b8a-bbe2-9845b2740803.png)
-<p></p>
+.
 ![image](https://user-images.githubusercontent.com/70360391/183052694-309e1692-a9ae-4133-862f-58d6e1649e47.png)
 
 
