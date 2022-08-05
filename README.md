@@ -1,3 +1,22 @@
+<h3>Look at the Final Deployed Website:  https://jeetpal-pokedex.web.app/</h3> 
+Click the above link to the website
+
+Note: You can enter any Pokemon's name to know more about it.
+
+Some pics of the final app: 
+![image](https://user-images.githubusercontent.com/70360391/183052453-15ebe5d5-8aa3-4944-88a4-de76a963dfc7.png)
+![image](https://user-images.githubusercontent.com/70360391/183052521-0886e7dd-65ce-4edd-95ab-98aa2838ce8f.png)
+![image](https://user-images.githubusercontent.com/70360391/183052634-9b9a50e6-d54d-4b8a-bbe2-9845b2740803.png)
+![image](https://user-images.githubusercontent.com/70360391/183052694-309e1692-a9ae-4133-862f-58d6e1649e47.png)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
