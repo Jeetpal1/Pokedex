@@ -1,7 +1,7 @@
 <h3>Look at the Final Deployed Website:  https://jeetpal-pokedex.web.app/</h3> 
 Click the above link to the website
 
-Note: You can enter any Pokemon's name to know more about it.
+Note:- You can enter any Pokemon's name to know more about it.
 
 Some pics of the final app: 
 ![image](https://user-images.githubusercontent.com/70360391/183052453-15ebe5d5-8aa3-4944-88a4-de76a963dfc7.png)
